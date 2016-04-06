@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"c",
+				"cloopen"
+			],
+			[
+				"ex",
+				"expiretime"
+			],
+			[
+				"rs",
+				"rstmsg"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"exp",
+				"exports"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"agt",
+				"agtid"
+			],
+			[
+				"re",
+				"retcode"
+			],
+			[
+				"get",
+				"getAgentConf"
+			],
+			[
+				"ag",
+				"agtid"
+			],
+			[
+				"redis",
+				"redis_client"
+			],
+			[
+				"dl",
+				"dlmt"
+			],
+			[
+				"http",
+				"httpobj"
+			],
+			[
+				"cur",
+				"currdate"
+			],
+			[
+				"sub",
+				"subamt"
+			],
+			[
+				"curr",
+				"currdate"
+			],
+			[
+				"rst",
+				"rstmsg"
+			],
+			[
+				"B",
+				"BACKTIME"
+			],
+			[
+				"cu",
+				"currtime"
+			],
+			[
+				"data",
+				"datalist"
+			],
+			[
+				"index",
+				"indexof"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"requ",
+				"require"
+			],
+			[
+				"method",
+				"methodname"
+			],
+			[
+				"fund",
+				"fundids"
+			],
+			[
+				"fun",
+				"fundids"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "crawler01.php",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "crawler02.php",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webservice01.php",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "webservice02.php",
+			"settings":
+			{
+				"buffer_size": 789,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ftp01.php",
+			"settings":
+			{
+				"buffer_size": 771,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ftp02.php",
+			"settings":
+			{
+				"buffer_size": 804,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 209.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/培训资料/慕课网/curl_on_hand/ws02.xml",
+		"/I/培训资料/慕课网/curl_on_hand/baidu.html",
+		"/F/TDDOWNLOAD/ftp01_uploaded.php",
+		"/I/培训资料/慕课网/curl_on_hand/webservice01.php",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/branches/yixun/package.json",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/branches/yixun/sms/sms.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/branches/yixun/sms/open189.js",
+		"/E/selfdoc/Projects/Wx/trunk/code/Site/html/html/index.html",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/redis/package.json",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/phpjs/package.json",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/log4js/package.json",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/log4j.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/package.json",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/sms/unittestlogger.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/test/unit/commontest.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/error.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/db.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/httpsvc.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/conf.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/util.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/unittestlogger.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/open189.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/test/request.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/sms.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/redis/README.md",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/redis/index.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/phpjs/lib/phpjs.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/node_modules/phpjs/functions/array/ksort.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/restart.sh",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/start.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/interfaces/zlfund.js",
+		"/E/selfdoc/Projects/changepocket/SRC/sms/trunk/index.js",
+		"/D/Program Files/Tools/Sublime Text 2.0.2 x64/Data/Packages/JsFormat/JsFormat.sublime-settings",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/interfaces/util.js",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/run.sh",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/logs/access.log",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/logs/access.log.1",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/branch/demo/interfaces/zlfund.js",
+		"/E/workspace/nodejs/node_wx-master/app.js",
+		"/D/Program Files/Tools/Sublime Text 2.0.2 x64/Data/Packages/JsFormat/Default (Windows).sublime-keymap",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/interface.sublime-project",
+		"/E/selfdoc/Projects/零钱包/svn_prod_changepocket/SRC/interface/trunk/interfaces/m.js",
+		"/D/Program Files/Tools/Sublime Text 2.0.2 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Tools/Sublime Text 2.0.2 x64/Data/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"JSON",
+			"mget",
+			"get",
+			"milti",
+			"do_auth",
+			");\n",
+			"implode",
+			"for",
+			"BACKTIME",
+			"from",
+			"key",
+			"from",
+			"serialnoex",
+			"try",
+			"connection.o",
+			"connection.once",
+			"errs",
+			"httpsvc.enderr",
+			"res.end(errs.mkerr(",
+			"res.end(",
+			"104",
+			"addJavascriptInterface",
+			"postAuthdata",
+			"getAuthData",
+			"export",
+			"module",
+			"console",
+			"Console",
+			"getbankcode",
+			"postAuthdata",
+			"function(post",
+			"function(postdata)",
+			"currdate",
+			"'end'",
+			"ress.on('end'",
+			"ress.on('data'",
+			"ress.on('data',function(d)",
+			"rawdata",
+			");\n",
+			"res.end(errs.mkerr(\"000002\", errmsg));",
+			"on('error'",
+			"reqI.on",
+			"on('error', ",
+			"on('error'",
+			"on(\"error\"",
+			"logger.error(e);",
+			"JSON.parse",
+			"JSON",
+			"TODO",
+			"postAuthdata",
+			"postdata",
+			"// TODO",
+			"//TODO",
+			"console.error",
+			"console.log",
+			"console",
+			"260104",
+			"};\n",
+			"\"fundid\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"httpsvc.enderr(res,",
+			"d",
+			"{res.end(errs.mkerr(\"000002\", errmsg)); return;}",
+			"logger.error",
+			"logger.debug"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "crawler01.php",
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "crawler02.php",
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webservice01.php",
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "webservice02.php",
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "ftp01.php",
+					"settings":
+					{
+						"buffer_size": 771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "ftp02.php",
+					"settings":
+					{
+						"buffer_size": 804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}
