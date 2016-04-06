@@ -21,4 +21,4 @@ class tiebaPic {
 		if(file_exists("./tiebapic/{$title}.jpg")) return realpath("./tiebapic/{$title}.jpg");
 	}
 }
-new TiebaPic('电影票房');
+new TiebaPic($_POST['title']);
