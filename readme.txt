@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+php版贴吧头像生成了,主要是为了练习GD库和curl库
+如上写的潦草,不要介意
